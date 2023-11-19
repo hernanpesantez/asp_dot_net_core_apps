@@ -1,0 +1,9 @@
+{
+    "terminal.integrated.env.windows": {
+        "PATH": "C:\\Users\\hernan.pesantez\\.azurelogicapps\\dependencies\\DotNetSDK;${env:PATH}"
+    },
+    "omnisharp.dotNetCliPaths": [
+        "C:\\Users\\hernan.pesantez\\.azurelogicapps\\dependencies\\DotNetSDK"
+    ],
+    "dotnet.defaultSolution": "WebApplication.sln"
+}
